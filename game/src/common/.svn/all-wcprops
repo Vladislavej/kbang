@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/181/trunk/src/common
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/167/trunk/src/common/config.h
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/146/trunk/src/common/util.cpp
+END
+gameenums.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/common/gameenums.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/146/trunk/src/common/util.h
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/172/trunk/src/common/config.cpp
+END
+gameenums.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/common/gameenums.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/69/trunk/doc
+END
+network_protocol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/69/trunk/doc/network_protocol.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/69/trunk/doc/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/69/trunk/doc/Makefile
+END
+specification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/69/trunk/doc/specification.xml
+END
+assignment-cz.tex
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/69/trunk/doc/assignment-cz.tex
+END

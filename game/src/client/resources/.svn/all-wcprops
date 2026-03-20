@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/144/trunk/src/client/resources
+END
+turn.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/144/trunk/src/client/resources/turn.png
+END
+connect.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/144/trunk/src/client/resources/connect.png
+END
+disconnect.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/144/trunk/src/client/resources/disconnect.png
+END
+ai.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/144/trunk/src/client/resources/ai.png
+END
+dead.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/144/trunk/src/client/resources/dead.png
+END
+alive.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/144/trunk/src/client/resources/alive.png
+END
+winner.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/src/client/resources/winner.png
+END
+pass.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/144/trunk/src/client/resources/pass.png
+END
+kbang.ico
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/144/trunk/src/client/resources/kbang.ico
+END
+human.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/144/trunk/src/client/resources/human.png
+END
+discard.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/144/trunk/src/client/resources/discard.png
+END
+background.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/144/trunk/src/client/resources/background.png
+END
+client.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/144/trunk/src/client/resources/client.qrc
+END
+kbang.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/144/trunk/src/client/resources/kbang.png
+END
+sheriff-badge.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/144/trunk/src/client/resources/sheriff-badge.png
+END
+sheriff.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/144/trunk/src/client/resources/sheriff.png
+END

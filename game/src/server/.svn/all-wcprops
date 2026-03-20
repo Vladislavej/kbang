@@ -1,0 +1,671 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/183/trunk/src/server
+END
+characterpedroramirez.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/server/characterpedroramirez.h
+END
+gameeventlistener.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/server/gameeventlistener.h
+END
+gametable.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/server/gametable.h
+END
+characterbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/src/server/characterbase.cpp
+END
+charactercassidygringo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/server/charactercassidygringo.h
+END
+gameinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/src/server/gameinfo.h
+END
+characterkitcarlson.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/src/server/characterkitcarlson.h
+END
+player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/src/server/player.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/123/trunk/src/server/common.h
+END
+cardbarrel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/cardbarrel.cpp
+END
+cardbang.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/server/cardbang.cpp
+END
+playingcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/server/playingcard.h
+END
+publicgameview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/145/trunk/src/server/publicgameview.cpp
+END
+carddrawcards.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/src/server/carddrawcards.cpp
+END
+gameserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/177/trunk/src/server/gameserver.h
+END
+cardfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/server/cardfactory.h
+END
+charactercalamityjanet.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/server/charactercalamityjanet.h
+END
+characterpropertychange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/123/trunk/src/server/characterpropertychange.cpp
+END
+characterjourdonnais.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/server/characterjourdonnais.cpp
+END
+carddynamite.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/carddynamite.h
+END
+game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/src/server/game.cpp
+END
+gameeventmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/145/trunk/src/server/gameeventmanager.h
+END
+cardbeer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/138/trunk/src/server/cardbeer.h
+END
+cardjail.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/src/server/cardjail.h
+END
+cardmissed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/cardmissed.cpp
+END
+cardhorse.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/server/cardhorse.h
+END
+voidai.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/145/trunk/src/server/voidai.h
+END
+gameexceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/145/trunk/src/server/gameexceptions.h
+END
+characterpedroramirez.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/123/trunk/src/server/characterpedroramirez.cpp
+END
+playerctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/src/server/playerctrl.cpp
+END
+charactercassidygringo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/139/trunk/src/server/charactercassidygringo.cpp
+END
+weaponcard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/weaponcard.cpp
+END
+characterkitcarlson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/server/characterkitcarlson.cpp
+END
+privateplayerview.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/147/trunk/src/server/privateplayerview.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/145/trunk/src/server/common.cpp
+END
+cardplayable.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/cardplayable.h
+END
+gamecycle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/src/server/gamecycle.cpp
+END
+charactersuzylafayette.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/server/charactersuzylafayette.h
+END
+publicplayerview.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/147/trunk/src/server/publicplayerview.h
+END
+characterbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/server/characterbase.h
+END
+gameserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/177/trunk/src/server/gameserver.cpp
+END
+consolecommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/175/trunk/src/server/consolecommand.cpp
+END
+checkdeckresulthandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/123/trunk/src/server/checkdeckresulthandler.cpp
+END
+cardmultishoot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/server/cardmultishoot.cpp
+END
+charactercalamityjanet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/123/trunk/src/server/charactercalamityjanet.cpp
+END
+reactioncard.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/reactioncard.h
+END
+carddynamite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/carddynamite.cpp
+END
+gameeventmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/src/server/gameeventmanager.cpp
+END
+cardbarrel.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/server/cardbarrel.h
+END
+cardbang.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/src/server/cardbang.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/123/trunk/src/server/console.h
+END
+publicgameview.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/publicgameview.h
+END
+cardhorse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/server/cardhorse.cpp
+END
+characterpropertychange.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/123/trunk/src/server/characterpropertychange.h
+END
+charactersidketchum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/141/trunk/src/server/charactersidketchum.cpp
+END
+characterluckyduke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/145/trunk/src/server/characterluckyduke.cpp
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/145/trunk/src/server/game.h
+END
+tablecard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/server/tablecard.cpp
+END
+privateplayerview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/147/trunk/src/server/privateplayerview.cpp
+END
+cardduel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/src/server/cardduel.cpp
+END
+characterjessejones.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/server/characterjessejones.cpp
+END
+publicplayerview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/147/trunk/src/server/publicplayerview.cpp
+END
+playerctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/src/server/playerctrl.h
+END
+charactersuzylafayette.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/src/server/charactersuzylafayette.cpp
+END
+characterblackjack.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/src/server/characterblackjack.h
+END
+weaponcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/server/weaponcard.h
+END
+cardgeneralstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/server/cardgeneralstore.h
+END
+playerreaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/playerreaper.cpp
+END
+characterlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/server/characterlist.h
+END
+reactioncard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/reactioncard.cpp
+END
+gamecycle.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/src/server/gamecycle.h
+END
+console.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/server/console.cpp
+END
+cardtaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/server/cardtaker.h
+END
+cardmultishoot.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/cardmultishoot.h
+END
+checkdeckresulthandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/server/checkdeckresulthandler.h
+END
+consolecommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/consolecommand.h
+END
+reactionhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/src/server/reactionhandler.h
+END
+gamelogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/gamelogger.cpp
+END
+tcpserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/server/tcpserver.cpp
+END
+gametable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/145/trunk/src/server/gametable.cpp
+END
+gameeventlistener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/src/server/gameeventlistener.cpp
+END
+charactersidketchum.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/src/server/charactersidketchum.h
+END
+characterblackjack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/123/trunk/src/server/characterblackjack.cpp
+END
+characterluckyduke.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/src/server/characterluckyduke.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/177/trunk/src/server/client.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/146/trunk/src/server/main.cpp
+END
+cardgeneralstore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/183/trunk/src/server/cardgeneralstore.cpp
+END
+gameinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/server/gameinfo.cpp
+END
+tablecard.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/server/tablecard.h
+END
+characterlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/src/server/characterlist.cpp
+END
+cardduel.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/139/trunk/src/server/cardduel.h
+END
+charactervulturesam.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/src/server/charactervulturesam.h
+END
+characterjessejones.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/src/server/characterjessejones.h
+END
+playingcard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/server/playingcard.cpp
+END
+cardtaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/src/server/cardtaker.cpp
+END
+playerreaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/server/playerreaper.h
+END
+cardfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/146/trunk/src/server/cardfactory.cpp
+END
+cards.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/123/trunk/src/server/cards.h
+END
+player.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/src/server/player.h
+END
+reactionhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/src/server/reactionhandler.cpp
+END
+cardbeer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/138/trunk/src/server/cardbeer.cpp
+END
+carddrawcards.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/server/carddrawcards.h
+END
+cardjail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/153/trunk/src/server/cardjail.cpp
+END
+voidai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/170/trunk/src/server/voidai.cpp
+END
+characterjourdonnais.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/123/trunk/src/server/characterjourdonnais.h
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/177/trunk/src/server/client.cpp
+END
+gamelogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/src/server/gamelogger.h
+END
+tcpserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/server/tcpserver.h
+END
+cardplayable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/server/cardplayable.cpp
+END
+cardmissed.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/server/cardmissed.h
+END
+charactervulturesam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/server/charactervulturesam.cpp
+END

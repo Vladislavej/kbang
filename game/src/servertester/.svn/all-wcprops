@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/145/trunk/src/servertester
+END
+servertester.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/src/servertester/servertester.h
+END
+servertester.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/123/trunk/src/servertester/servertester.pro
+END
+servertester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/123/trunk/src/servertester/servertester.cpp
+END

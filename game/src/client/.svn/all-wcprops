@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/180/trunk/src/client
+END
+aboutdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/client/aboutdialog.cpp
+END
+cardpilewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/client/cardpilewidget.h
+END
+connecttoserverdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/client/connecttoserverdialog.ui
+END
+cardactionswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/src/client/cardactionswidget.cpp
+END
+playerwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/167/trunk/src/client/playerwidget.cpp
+END
+newserverdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/src/client/newserverdialog.cpp
+END
+playerevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/client/playerevent.h
+END
+creategamedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/client/creategamedialog.ui
+END
+gameeventhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/src/client/gameeventhandler.cpp
+END
+joingamedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/180/trunk/src/client/joingamedialog.cpp
+END
+cardwidgetfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/src/client/cardwidgetfactory.h
+END
+card.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/145/trunk/src/client/card.h
+END
+deckwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/client/deckwidget.h
+END
+logwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/src/client/logwidget.ui
+END
+localplayerwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/client/localplayerwidget.h
+END
+gameeventqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/client/gameeventqueue.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/client/mainwindow.h
+END
+cardwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/src/client/cardwidget.h
+END
+creategamedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/client/creategamedialog.h
+END
+chatwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/src/client/chatwidget.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/171/trunk/src/client/main.cpp
+END
+lifepointschangeevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/client/lifepointschangeevent.h
+END
+logwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/client/logwidget.h
+END
+graveyardwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/src/client/graveyardwidget.h
+END
+playerevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/client/playerevent.cpp
+END
+connecttoserverdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/123/trunk/src/client/connecttoserverdialog.cpp
+END
+gameloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/client/gameloop.cpp
+END
+joingamedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/src/client/joingamedialog.ui
+END
+characterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/src/client/characterwidget.h
+END
+selectplayericonwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/123/trunk/src/client/selectplayericonwidget.cpp
+END
+deckwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/client/deckwidget.cpp
+END
+opponentwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/145/trunk/src/client/opponentwidget.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/172/trunk/src/client/mainwindow.cpp
+END
+gamesyncevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/src/client/gamesyncevent.h
+END
+gameeventhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/client/gameeventhandler.h
+END
+joingamedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/client/joingamedialog.h
+END
+cardpocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/client/cardpocket.cpp
+END
+lifepointschangeevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/145/trunk/src/client/lifepointschangeevent.cpp
+END
+gamemessageevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/145/trunk/src/client/gamemessageevent.h
+END
+cardzoomwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/client/cardzoomwidget.h
+END
+graveyardwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/src/client/graveyardwidget.cpp
+END
+chatwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/client/chatwidget.h
+END
+playerdiedevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/src/client/playerdiedevent.h
+END
+newserverdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/client/newserverdialog.ui
+END
+serverconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/145/trunk/src/client/serverconnection.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/123/trunk/src/client/common.h
+END
+characterwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/client/characterwidget.cpp
+END
+opponentwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/src/client/opponentwidget.ui
+END
+cardwidgetsizemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/123/trunk/src/client/cardwidgetsizemanager.cpp
+END
+opponentwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/145/trunk/src/client/opponentwidget.cpp
+END
+localplayerwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/src/client/localplayerwidget.ui
+END
+gameactionmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/client/gameactionmanager.h
+END
+gameloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/src/client/gameloop.h
+END
+gamesyncevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/src/client/gamesyncevent.cpp
+END
+connecttoserverdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/client/connecttoserverdialog.h
+END
+cardlistwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/179/trunk/src/client/cardlistwidget.cpp
+END
+game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/145/trunk/src/client/game.cpp
+END
+gameevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/client/gameevent.cpp
+END
+selectplayericonwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/client/selectplayericonwidget.h
+END
+gamemessageevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/src/client/gamemessageevent.cpp
+END
+cardzoomwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/client/cardzoomwidget.cpp
+END
+cardpocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/123/trunk/src/client/cardpocket.h
+END
+playerdiedevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/src/client/playerdiedevent.cpp
+END
+serverconnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/src/client/serverconnection.cpp
+END
+cardpilewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/client/cardpilewidget.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/src/client/common.cpp
+END
+gamecontextchangeevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/client/gamecontextchangeevent.h
+END
+cardmovementevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/client/cardmovementevent.h
+END
+aboutdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/client/aboutdialog.h
+END
+gameactionmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/152/trunk/src/client/gameactionmanager.cpp
+END
+cardactionswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/src/client/cardactionswidget.h
+END
+cardwidgetfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/src/client/cardwidgetfactory.cpp
+END
+newserverdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/src/client/newserverdialog.h
+END
+playerwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/src/client/playerwidget.h
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/172/trunk/src/client/mainwindow.ui
+END
+cardwidgetsizemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/src/client/cardwidgetsizemanager.h
+END
+card.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/168/trunk/src/client/card.cpp
+END
+localplayerwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/src/client/localplayerwidget.cpp
+END
+creategamedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/src/client/creategamedialog.cpp
+END
+cardwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/src/client/cardwidget.cpp
+END
+chatwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/client/chatwidget.ui
+END
+cardlistwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/178/trunk/src/client/cardlistwidget.h
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/145/trunk/src/client/game.h
+END
+gameevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/src/client/gameevent.h
+END
+gameeventqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/client/gameeventqueue.h
+END
+logwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/src/client/logwidget.cpp
+END
+aboutdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/src/client/aboutdialog.ui
+END
+cardmovementevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/src/client/cardmovementevent.cpp
+END
+gamecontextchangeevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/123/trunk/src/client/gamecontextchangeevent.cpp
+END

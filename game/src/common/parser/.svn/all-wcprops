@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/181/trunk/src/common/parser
+END
+queryresult.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/174/trunk/src/common/parser/queryresult.h
+END
+ioproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/common/parser/ioproxy.cpp
+END
+parserstructs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/181/trunk/src/common/parser/parserstructs.h
+END
+queryget.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/174/trunk/src/common/parser/queryget.h
+END
+xmlnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/181/trunk/src/common/parser/xmlnode.h
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/176/trunk/src/common/parser/parser.cpp
+END
+ioproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/src/common/parser/ioproxy.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/176/trunk/src/common/parser/parser.h
+END
+parserstructs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/common/parser/parserstructs.cpp
+END
+queryresult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/174/trunk/src/common/parser/queryresult.cpp
+END
+queryget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/174/trunk/src/common/parser/queryget.cpp
+END
+xmlnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/123/trunk/src/common/parser/xmlnode.cpp
+END

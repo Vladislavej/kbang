@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/123/trunk/src/tests/testparser
+END
+mocksocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/123/trunk/src/tests/testparser/mocksocket.h
+END
+testparser.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/tests/testparser/testparser.pro
+END
+testparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/tests/testparser/testparser.cpp
+END
+testparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/123/trunk/src/tests/testparser/testparser.h
+END
+mocksocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/src/tests/testparser/mocksocket.cpp
+END
